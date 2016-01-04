@@ -1,2 +1,2 @@
 # StringSearch
-Swift library containing implementations of different pattern matching algorithms
+Boyer Moore string search algorithm in Swift
